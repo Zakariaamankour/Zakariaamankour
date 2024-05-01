@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zakariaamankour
 - 👀 I’m interested in exploring new technologies and solving complex problems.
-🌱 I’m currently learning about desktop and mobile development languages.
+- 🌱 I’m currently learning about desktop and mobile development languages.
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of technology.
 - 📫 You can reach me via email at [zakariaamenkour@gmail.com](mailto:zakariaamenkour@gmail.com).
 
